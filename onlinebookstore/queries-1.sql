@@ -48,7 +48,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-100.jpg',
     1,
     100,
-    600.00,
+    60.00,
     1, 
     NOW()
 );
@@ -73,7 +73,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-101.jpg',
     1,
     100,
-    700.00,
+    70.00,
     1, 
     NOW()
 );
@@ -98,7 +98,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-102.jpg',
     1,
     100,
-    800.00,
+    80.00,
     1, 
     NOW()
 );
@@ -123,7 +123,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-103.jpg',
     1,
     100,
-    900.00,
+    90.00,
     1, 
     NOW()
 );
@@ -148,7 +148,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-104.jpg',
     1,
     100,
-    1000.00,
+    100.00,
     1, 
     NOW()
 );
@@ -173,7 +173,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-105.jpg',
     1,
     100,
-    500.00,
+    50.00,
     1, 
     NOW()
 );
@@ -198,7 +198,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-106.jpg',
     1,
     100,
-    600.00,
+    60.00,
     1, 
     NOW()
 );
@@ -223,7 +223,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-107.jpg',
     1,
     100,
-    700.00,
+    70.00,
     1, 
     NOW()
 );
@@ -248,7 +248,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-108.jpg',
     1,
     100,
-    800.00,
+    80.00,
     1, 
     NOW()
 );
@@ -273,7 +273,7 @@ VALUES
     'assets/images/webdevelopment/webdevelopment-109.jpg',
     1,
     100,
-    900.00,
+    90.00,
     1, 
     NOW()
 );
@@ -298,7 +298,7 @@ VALUES
     'assets/images/programming/programming-100.jpg',
     1,
     100,
-    400.00,
+    40.00,
     2, 
     NOW()
 );
@@ -323,7 +323,7 @@ VALUES
     'assets/images/programming/programming-101.jpg',
     1,
     100,
-    500.00,
+    50.00,
     2, 
     NOW()
 );
@@ -348,7 +348,7 @@ VALUES
     'assets/images/programming/programming-102.jpg',
     1,
     100,
-    600.00,
+    60.00,
     2, 
     NOW()
 );
@@ -373,7 +373,7 @@ VALUES
     'assets/images/programming/programming-103.jpg',
     1,
     100,
-    700.00,
+    70.00,
     2, 
     NOW()
 );
@@ -398,7 +398,7 @@ VALUES
     'assets/images/programming/programming-104.jpg',
     1,
     100,
-    800.00,
+    80.00,
     2, 
     NOW()
 );
@@ -423,7 +423,7 @@ VALUES
     'assets/images/programming/programming-105.jpg',
     1,
     100,
-    900.00,
+    90.00,
     2, 
     NOW()
 );
@@ -448,7 +448,7 @@ VALUES
     'assets/images/programming/programming-106.jpg',
     1,
     100,
-    900.00,
+    90.00,
     2, 
     NOW()
 );
@@ -473,7 +473,7 @@ VALUES
     'assets/images/programming/programming-107.jpg',
     1,
     100,
-    1000.00,
+    100.00,
     2, 
     NOW()
 );
@@ -498,7 +498,7 @@ VALUES
     'assets/images/programming/programming-108.jpg',
     1,
     100,
-    500.00,
+    50.00,
     2, 
     NOW()
 );
@@ -523,7 +523,7 @@ VALUES
     'assets/images/programming/programming-109.jpg',
     1,
     100,
-    600.00,
+    60.00,
     2, 
     NOW()
 );
@@ -548,7 +548,7 @@ VALUES
     'assets/images/databases/databases-100.jpg',
     1,
     100,
-    400.00,
+    40.00,
     3, 
     NOW()
 );
@@ -573,7 +573,7 @@ VALUES
     'assets/images/databases/databases-101.jpg',
     1,
     100,
-    500.00,
+    50.00,
     3, 
     NOW()
 );
@@ -598,7 +598,7 @@ VALUES
     'assets/images/databases/databases-102.jpg',
     1,
     100,
-    600.00,
+    60.00,
     3, 
     NOW()
 );
@@ -623,7 +623,7 @@ VALUES
     'assets/images/databases/databases-103.jpg',
     1,
     100,
-    700.00,
+    70.00,
     3, 
     NOW()
 );
@@ -648,7 +648,7 @@ VALUES
     'assets/images/databases/databases-104.jpg',
     1,
     100,
-    800.00,
+    80.00,
     3, 
     NOW()
 );
@@ -673,7 +673,7 @@ VALUES
     'assets/images/databases/databases-105.jpg',
     1,
     100,
-    900.00,
+    90.00,
     3, 
     NOW()
 );
@@ -698,7 +698,7 @@ VALUES
     'assets/images/databases/databases-106.jpg',
     1,
     100,
-    1000.00,
+    100.00,
     3, 
     NOW()
 );
@@ -723,7 +723,7 @@ VALUES
     'assets/images/databases/databases-107.jpg',
     1,
     100,
-    400.00,
+    40.00,
     3, 
     NOW()
 );
@@ -748,7 +748,7 @@ VALUES
     'assets/images/databases/databases-108.jpg',
     1,
     100,
-    500.00,
+    50.00,
     3, 
     NOW()
 );
@@ -773,7 +773,7 @@ VALUES
     'assets/images/databases/databases-109.jpg',
     1,
     100,
-    600.00,
+    60.00,
     3, 
     NOW()
 );
@@ -798,7 +798,7 @@ VALUES
     'assets/images/administration/administration-100.jpg',
     1,
     100,
-    400.00,
+    40.00,
     4, 
     NOW()
 );
@@ -823,7 +823,7 @@ VALUES
     'assets/images/administration/administration-101.jpg',
     1,
     100,
-    500.00,
+    50.00,
     4, 
     NOW()
 );
@@ -848,7 +848,7 @@ VALUES
     'assets/images/administration/administration-102.jpg',
     1,
     100,
-    600.00,
+    60.00,
     4, 
     NOW()
 );
@@ -873,7 +873,7 @@ VALUES
     'assets/images/administration/administration-103.jpg',
     1,
     100,
-    700.00,
+    70.00,
     4, 
     NOW()
 );
@@ -898,7 +898,7 @@ VALUES
     'assets/images/administration/administration-104.jpg',
     1,
     100,
-    800.00,
+    80.00,
     4, 
     NOW()
 );
@@ -923,7 +923,7 @@ VALUES
     'assets/images/administration/administration-105.jpg',
     1,
     100,
-    900.00,
+    90.00,
     4, 
     NOW()
 );
@@ -948,7 +948,7 @@ VALUES
     'assets/images/administration/administration-106.jpg',
     1,
     100,
-    1000.00,
+    100.00,
     4, 
     NOW()
 );
@@ -973,7 +973,7 @@ VALUES
     'assets/images/administration/administration-107.jpg',
     1,
     100,
-    300.00,
+    30.00,
     4, 
     NOW()
 );
@@ -998,7 +998,7 @@ VALUES
     'assets/images/administration/administration-108.jpg',
     1,
     100,
-    400.00,
+    40.00,
     4, 
     NOW()
 );
@@ -1023,7 +1023,7 @@ VALUES
     'assets/images/administration/administration-109.jpg',
     1,
     100,
-    500.00,
+    50.00,
     4, 
     NOW()
 );
