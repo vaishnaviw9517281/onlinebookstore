@@ -13,11 +13,11 @@ export class BookService {
   //private baseUrl = "http://localhost:8080/api/v1/books";
   //private categoryUrl = "http://localhost:8080/api/v1/book-category";
 
-  private baseUrl = "http://0.0.0.0:8080/api/v1/books";
-  private categoryUrl = "http://0.0.0.0:8080/api/v1/book-category";
+  //private baseUrl = "http://0.0.0.0:8080/api/v1/books";
+  //private categoryUrl = "http://0.0.0.0:8080/api/v1/book-category";
 
-  //private baseUrl = "http://3.93.31.194:8080/api/v1/books";
-  //private categoryUrl = "http://3.93.31.194:8080/api/v1/book-category";
+  private baseUrl = "http://3.93.31.194:8080/api/v1/books";
+  private categoryUrl = "http://3.93.31.194:8080/api/v1/book-category";
 
   constructor(private httpClient: HttpClient) { }
 
