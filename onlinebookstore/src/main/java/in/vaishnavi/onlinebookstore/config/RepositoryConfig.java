@@ -1,4 +1,4 @@
-package in.bushansirgur.onlinebookstore.config;
+package in.vaishnavi.onlinebookstore.config;
 
 import javax.persistence.EntityManager;
 import javax.persistence.metamodel.Type;
@@ -23,6 +23,6 @@ public class RepositoryConfig implements RepositoryRestConfigurer{
 				.toArray(Class[]::new));
 		config.getCorsRegistry()
 				.addMapping("/**")
-				.allowedOrigins("http://3.93.31.194:4200");
+				.allowedOrigins("http://3.93.31.194:4200","http://localhost:4200");
 	}
 }

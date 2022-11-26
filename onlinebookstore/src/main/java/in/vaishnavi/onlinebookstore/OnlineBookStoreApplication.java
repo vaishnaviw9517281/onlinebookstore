@@ -1,4 +1,4 @@
-package in.bushansirgur.onlinebookstore;
+package in.vaishnavi.onlinebookstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

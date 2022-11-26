@@ -1,4 +1,4 @@
-package in.bushansirgur.onlinebookstore.entity;
+package in.vaishnavi.onlinebookstore.entity;
 
 import java.util.List;
 
