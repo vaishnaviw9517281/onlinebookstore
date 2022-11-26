@@ -28,6 +28,7 @@ const routes: Routes = [
   {path: 'category/:id', component: BookListComponent},
   {path: '', redirectTo: '/books', pathMatch: 'full'},
   {path: '**', component: PageNotFoundComponent}
+  
 ];
 
 @NgModule({

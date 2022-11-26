@@ -6,6 +6,7 @@ import { Country } from "src/app/common/country";
 import { State } from "src/app/common/state";
 import { CheckoutService } from "src/app/services/checkout.service";
 
+
 @Component({
   selector: 'app-checkout',
   templateUrl: './checkout.component.html',
@@ -110,6 +111,7 @@ export class CheckoutComponent implements OnInit {
     console.log('Purchase the books');
     console.log(this.checkoutFormGroup.get('customer').value);
     console.log("Emial is", this.checkoutFormGroup.get('customer').value.email);
+    
   }
 
   copyShippingAddressToBillingAddress(event) {
