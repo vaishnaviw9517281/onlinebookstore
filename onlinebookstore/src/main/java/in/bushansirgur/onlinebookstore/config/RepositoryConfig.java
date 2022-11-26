@@ -23,9 +23,6 @@ public class RepositoryConfig implements RepositoryRestConfigurer{
 				.toArray(Class[]::new));
 		config.getCorsRegistry()
 				.addMapping("/**")
-				.allowedHeaders("Content-Type", "X-Requested-With", "accept", "Origin", "Access-Control-Request-Method",
-                        "Access-Control-Request-Headers")
-                .exposedHeaders("Access-Control-Allow-Origin", "Access-Control-Allow-Credentials")
 				.allowedOrigins("http://3.93.31.194:4200")
 				.allowedOrigins("http://localhost:4200");
 	}
