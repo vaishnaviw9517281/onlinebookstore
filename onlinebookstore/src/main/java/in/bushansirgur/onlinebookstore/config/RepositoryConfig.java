@@ -23,6 +23,6 @@ public class RepositoryConfig implements RepositoryRestConfigurer{
 				.toArray(Class[]::new));
 		config.getCorsRegistry()
 				.addMapping("/**")
-				.allowedOrigins("**");
+				.allowedOrigins("http://3.93.31.194:4200");
 	}
 }
