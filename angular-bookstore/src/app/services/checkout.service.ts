@@ -10,10 +10,10 @@ import { map } from "rxjs/internal/operators/map";
 })
 export class CheckoutService {
 
-  //private countriesUrl = 'http://localhost:8080/api/v1/countries';
-  //private statesUrl = 'http://localhost:8080/api/v1/states/';
-  private countriesUrl = 'http://3.93.31.194:8080/api/v1/countries';
-  private statesUrl = 'http://3.93.31.194:8080/api/v1/states/';
+  private countriesUrl = 'http://localhost:8080/api/v1/countries';
+  private statesUrl = 'http://localhost:8080/api/v1/states/';
+  //private countriesUrl = 'http://3.93.31.194:8080/api/v1/countries';
+  //private statesUrl = 'http://3.93.31.194:8080/api/v1/states/';
   constructor(private httpClient: HttpClient) { }
 
   getCountries(): Observable<Country[]> {
